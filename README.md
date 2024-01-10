@@ -1,2 +1,2 @@
 # github-demo
-deleted all
+deleted
